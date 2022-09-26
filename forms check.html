@@ -35,13 +35,45 @@
     </form>
     <h3>Searching Google</h3>
     <form action="https://www.google.com/search">
-        <input type="text" name = 'q'>
+        <input type="text" name='q'>
         <button>Search Google</button>
     </form>
     <h3>Searching Youtube</h3>
     <form action="https://www.youtube.com/results">
-        <input type="text" name = "search_query">
+        <input type="text" name="search_query">
         <button>Search Youtube</button>
+    </form>
+    <h2>More stuff with inputs</h2>
+    <form action="/birds">
+        <input type="checkbox" name="agree_tos" id="agree" checked>
+        <label for="agree">I agree to everything</label>
+        <p>
+            <label for="xs">XS:</label>
+            <input type="radio" name="dog" id="xs" value="xs">
+            <label for="s">S</label>
+            <input type="radio" name="dog" id="s" value="s">
+            <label for="m">M</label>
+            <input type="radio" name="dog" id="m" value="m">
+        </p>
+        <p>
+            <label for="meal">Please select a meal type</label>
+            <select name="meal" id="meal">
+                <option value="" selected>Please choose a meal type</option>
+                <option value="fish">Fish</option>
+                <option value="veg">Vegan</option>
+                <option value="Meat">Meat options</option>
+            </select>
+
+        </p>
+        <p>
+            <label for="garri">Amount of garri available:</label>
+            <input type="range" name="garri id="garri" value = "7"min="1"max="10">
+        </p>
+        <p>
+            <label for="requests">Any special requests?</label><br>
+            <textarea name="write_here" id="" cols="30" rows="10" placeholder="Type it here"></textarea>
+        </p>
+        <button>Submit</button>
     </form>
 </body>
 
