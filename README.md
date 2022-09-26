@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samthesurf
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Python, HTML, CSS and Javascript.
+- 🌱 I’m currently learning Python, HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on learning together with other new people
 - 📫 How to reach me . You can reach me by my email ukpsamuel67@gmail.com
 
