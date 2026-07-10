@@ -47,9 +47,4 @@
   <img alt="Discord" src="https://img.shields.io/badge/Discord-Samuel%20Surfboard-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </p>
 
-<p align="center">
-  <img height="155" alt="GitHub statistics for Samthesurf" src="https://github-readme-stats.vercel.app/api?username=Samthesurf&show_icons=true&hide_title=true&theme=transparent&rank_icon=github" />
-  <img height="155" alt="Most-used public languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samthesurf&layout=compact&theme=transparent&langs_count=8" />
-</p>
-
 <p align="center"><i>Build, break, learn, repeat.</i></p>
