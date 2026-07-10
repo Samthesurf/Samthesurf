@@ -184,7 +184,7 @@ def info_row(y: int, key: str, value: str, color: str, theme: dict[str, str]) ->
     return (
         f'<text x="394" y="{y}" fill="{theme[color]}" font-weight="700">{escape(key)}</text>'
         f'<text x="463" y="{y}" fill="{theme["muted"]}" fill-opacity="0.62">............</text>'
-        f'<text{value_id} x="548" y="{y}" fill="{theme["text"]}">{escape(value)}</text>'
+        f'<text{value_id} x="590" y="{y}" fill="{theme["text"]}">{escape(value)}</text>'
     )
 
 

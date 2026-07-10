@@ -72,7 +72,7 @@ function injectLiveUptime(template, age, mode, now) {
   const hourPhase = age.hours * 3600 + minutePhase;
   const readable = `${age.years}y ${age.months}mo ${age.days}d ${age.hours}h ${age.minutes}m ${age.seconds}s`;
 
-  const liveMarkup = `<foreignObject id="uptime-value" x="548" y="184" width="310" height="24">
+  const liveMarkup = `<foreignObject id="uptime-value" x="590" y="184" width="278" height="24">
     <div xmlns="http://www.w3.org/1999/xhtml" class="live-uptime" aria-label="GitHub account uptime: ${readable}">
       <span>${age.years}y ${age.months}mo ${age.days}d </span><span class="reel hours"></span><span>h </span><span class="reel minutes"></span><span>m </span><span class="reel seconds"></span><span>s</span>
     </div>
@@ -87,7 +87,7 @@ function injectLiveUptime(template, age, mode, now) {
     </style>
   </foreignObject>`;
 
-  const uptimePattern = /<text(?: id="uptime-value")? x="548" y="201"[^>]*>.*?<\/text>/;
+  const uptimePattern = /<text(?: id="uptime-value")? x="(?:548|590)" y="201"[^>]*>.*?<\/text>/;
   if (!uptimePattern.test(template)) {
     throw new Error("Uptime placeholder was not found in the profile card template");
   }
