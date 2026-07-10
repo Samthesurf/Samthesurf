@@ -14,7 +14,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arch,linux,py,pytorch,tensorflow,sklearn,opencv,ts,js,dart,flutter,lua,bash,git,github&theme=dark&perline=15">
-    <img alt="Samuel's development toolkit" src="https://skillicons.dev/icons?i=arch,linux,py,pytorch,tensorflow,sklearn,opencv,ts,js,dart,flutter,lua,bash,git,github&theme=light&perline=15">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arch%2Clinux%2Cpy%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Cts%2Cjs%2Cdart%2Cflutter%2Clua%2Cbash%2Cgit%2Cgithub&amp;theme=dark&amp;perline=15">
+    <img alt="Samuel's development toolkit" src="https://skillicons.dev/icons?i=arch%2Clinux%2Cpy%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Cts%2Cjs%2Cdart%2Cflutter%2Clua%2Cbash%2Cgit%2Cgithub&amp;theme=light&amp;perline=15">
   </picture>
 </p>
