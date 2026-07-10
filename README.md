@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://samthesurf-profile-card.hawkbuddy.workers.dev/dark.svg?v=1">
-    <img width="100%" alt="Samuel Ukpai's live terminal-style GitHub profile with a full colored ASCII portrait" src="https://samthesurf-profile-card.hawkbuddy.workers.dev/light.svg?v=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://samthesurf-profile-card.hawkbuddy.workers.dev/dark.svg?v=2">
+    <img width="100%" alt="Samuel Ukpai's live terminal-style GitHub profile with a full colored ASCII portrait" src="https://samthesurf-profile-card.hawkbuddy.workers.dev/light.svg?v=2">
   </picture>
 </p>
 
