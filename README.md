@@ -6,19 +6,19 @@
 
 <!-- Portrait rendered from the public GitHub avatar. -->
 
-```text
+<pre>
 ..... -%-===++++++*****##%%%%#%@%:::::::::::::::     samuel@github
 ......#+-======+++*****##%%%%##@@+.:::::::::::::     -------------------------
 .....:%====+=+++++*+**##%%%%%%#@@%:....:::::::::     OS: Arch Linux
 .....-*-==++++++++****##%%%@%%%@@@+..::..:::::::     Kernel: Linux 7.0.14
 .....+*-=+++++++++****##%%@@%%%%@@%:.:...::.::::     Host: Intel x86_64
-.....++-++++++++++****##%%%%%%%%@@@-.:..:...::::     Uptime: GitHub since 20 Nov 2021
+.....++-++++++++++****##%%%%%%%%@@@-.:..:...::::     Uptime: <img src="https://samthesurf-github-uptime.hawkbuddy.workers.dev/uptime.svg" height="24" alt="Live GitHub account age in elapsed seconds." />
 .....+==++++++++++****##%%%%%%%%%@@=.:...:.:.:::     IDE: Antigravity, Zed
 ... :*==+++=====++*****##%%%%%%%%@@+.:....::.:::     Agents: Hermes Agent, Codex, OpenCode
 ..  :*=+++=====+++*****####%%%%%%%@=.:.::::::::     Languages: Python, Jupyter, Dart, JavaScript,
 ....:+=++==++++++******#%%%%@@@@%#@=.:::::::.:::                TypeScript, C/C++, Lua, Shell
 ... .+====++**++******#@@@@@@@@@@#@=.::::.::::::     Hobbies.Software: Deep Learning, AI, Linux
-.....==*###%@%#*****##@@@@@@@@@@@#%=:::.::::::::     Hobbies.Hardware: None
+.....==*###%@%#*****##@@@@@@@@@@@#%=:::.::::::::
  ....-#@@@@@@@%#***#%%@@@%##%@@@@%%-:::.::::::::
  . ..-%#**#%%%%##**%%@@@%##%@@@@@@%-::::::::::::     Contact
 .....-*++++#%@%%#++%@@@@@%#%@@@@@@%*::::::::::::     -------------------------
@@ -38,7 +38,7 @@
 . ...:++***++=====+++*###%@@@@%%@@@@*-------:-::
 ......+++*#+=====+++*##%%@@@@@%%@@@@+=------::::
 ......=++*#%#++++*##**%%@@@@@%%@@@@%==-----::---
-```
+</pre>
 
 <p align="center">
   <a href="https://github.com/Samthesurf"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Samthesurf-181717?style=flat-square&logo=github" /></a>
