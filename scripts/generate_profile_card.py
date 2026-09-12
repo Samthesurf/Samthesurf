@@ -35,7 +35,7 @@ PROFILE = {
     "Host": "Intel x86_64",
     "Editors": "Antigravity · Zed",
     "Agents": "Hermes Agent · Codex · OpenCode",
-    "Focus": "Deep Learning · AI · Linux",
+    "Focus": "Web · Mobile · AI · Linux",
     "Stack": "Python · TypeScript · Dart · Lua",
     "GitHub": "@Samthesurf",
     "Repos": "Open source · ML · Linux",
